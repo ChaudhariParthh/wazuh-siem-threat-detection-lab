@@ -29,4 +29,7 @@ Verify that the Wazuh Configuration Assessment module can detect Windows Firewal
 ```text
 data.sca.check.title:firewall
 data.sca.check.result:failed
-data.sca.check.result:passed
+data.sca.check.id:51502
+data.sca.check.agentid:001
+data.sca.check.agentip:192.168.56.3
+
