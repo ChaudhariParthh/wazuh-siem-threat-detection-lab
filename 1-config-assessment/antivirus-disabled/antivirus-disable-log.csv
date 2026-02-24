@@ -1,0 +1,2 @@
+data.sca.check.title,timestamp,data.sca.check.file,data.sca.check.result,data.sca.policy
+Ensure 'Prevent users and apps from accessing dangerous websites' is set to 'Enabled: Block'.,"Feb 23, 2026 @ 23:49:15.984",,failed,CIS Microsoft Windows 10 Enterprise Benchmark v4.0.0
