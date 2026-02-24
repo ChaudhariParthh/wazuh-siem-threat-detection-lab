@@ -1,0 +1,2 @@
+data.sca.check.title,timestamp,data.sca.check.file,data.sca.check.result,data.sca.policy
+Ensure 'Minimum password length' is set to '14 or more character(s)'.,"Feb 23, 2026 @ 23:49:05.589",,failed,CIS Microsoft Windows 10 Enterprise Benchmark v4.0.0
