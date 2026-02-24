@@ -1,0 +1,2 @@
+data.sca.check.title,timestamp,data.sca.check.file,data.sca.check.result,data.sca.policy
+Ensure 'Windows Firewall: Domain: Inbound connections' is set to 'Block (default)'.,"Feb 23, 2026 @ 23:49:08.875",,passed,CIS Microsoft Windows 10 Enterprise Benchmark v4.0.0
