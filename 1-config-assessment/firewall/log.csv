@@ -1,2 +1,0 @@
-timestamp,data.sca.check.title,data.sca.check.file,data.sca.check.result,data.sca.policy
-"Feb 23, 2026 @ 23:49:08.931",Ensure 'Windows Firewall: Domain: Settings: Display a notification' is set to 'No'.,,failed,CIS Microsoft Windows 10 Enterprise Benchmark v4.0.0
