@@ -30,3 +30,7 @@ Demonstrate Wazuh can detect disabled antivirus settings using the CIS Benchmark
 ```text
 data.sca.check.title:defender
 data.sca.check.result:failed
+data.sca.check.id:12345
+data.sca.check.agentid:001
+data.sca.check.agentip:127.0.0.1
+
