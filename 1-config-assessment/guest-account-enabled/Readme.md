@@ -1,9 +1,3 @@
-
----
-
-## ✅ README.md — `guest-account/`
-
-```markdown
 # Guest Account Security Assessment
 
 ## Objective
