@@ -37,10 +37,6 @@ Download and install according to your host operating system.
 
 [https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html](https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html)
 
-Download:
-
-**Wazuh Virtual Machine (OVA)**
-
 ---
 
 ## Step 2: Import Wazuh OVA into VirtualBox
@@ -332,7 +328,9 @@ Configure:
 ---
 
 ## Author
+
 Parth Chaudhari
+
 Cybersecurity Enthusiast
 
 
